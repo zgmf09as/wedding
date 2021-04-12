@@ -238,7 +238,7 @@
 		var position = new naver.maps.LatLng({{ site.data.map.latitude }}, {{ site.data.map.longitude }});
 		var mapOptions = {
 			center: position,
-			zoom: 19,
+			zoom: 16,
 			minZoom: 10,
 			maxZoom: 21
 		};
@@ -268,7 +268,7 @@
 		$("#to-center").on("click", function (e) {
 			e.preventDefault();
 			map.setCenter(position);
-			map.setZoom(12, true);
+			map.setZoom(16, true);
 			buttons.fadeOut();
 			gaEvent('map', 'click', 'center_button_hide');
 		});

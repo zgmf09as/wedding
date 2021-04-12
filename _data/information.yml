@@ -3,8 +3,8 @@ where: "아펠가모 선릉"
 groom:
   name: "은철"
   eng: "Eunchul, Jeon"
-  thumbnail: "images/yako_thumb.jpg"
-  originalImage: "images/yako.jpg"
+  thumbnail: "images/eric.jpg"
+  originalImage: "images/eric_big.png"
   imageWidth: 3897
   imageHeight: 3876
   parents: "전용실 ∙ 곽경헌"
@@ -15,8 +15,8 @@ groom:
 bride:
   name: "여름"
   eng: "Yeoreum Hwangbo"
-  thumbnail: "images/imee_thumb.jpg"
-  originalImage: "images/imee.jpg"
+  thumbnail: "images/summer.jpg"
+  originalImage: "images/summer_big.png"
   imageWidth: 3862
   imageHeight: 3865
   parents: "황보종 ∙ 고희자"

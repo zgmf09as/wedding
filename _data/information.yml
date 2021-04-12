@@ -2,7 +2,7 @@ when: "5월 29일 일요일 오후 6시 30분"
 where: "아펠가모 반포"
 groom:
   name: "은철"
-  eng: "Eunchul, Jeon"
+  eng: "Eunchul Jeon"
   thumbnail: "images/eric.jpg"
   originalImage: "images/eric_big.png"
   imageWidth: 3897

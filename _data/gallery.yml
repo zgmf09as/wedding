@@ -119,7 +119,7 @@ galleries:
         height: 2316      
   - id: "tongyeong-gallery4"
     title: "통영"
-    representImage: "images/tongyeong/1.jpeg"
+    representImage: "images/tongyeong/5.jpeg"
     images:
       - image: "images/tongyeong/1.jpeg"
         width: 3088

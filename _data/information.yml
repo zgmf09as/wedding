@@ -12,6 +12,9 @@ groom:
     - icon: "icon-phone"
       link: "tel://01099962965"
       clickEvent: "yako-phone"
+    - icon: "icon-phone"
+      link: "http://qr.kakao.com/talk/.RGXSvrwkHAcPZ.aIX.gY0VO8rU-"
+      clickEvent: "eric-kakao"
 bride:
   name: "여름"
   eng: "Yeoreum Hwangbo"
@@ -24,3 +27,6 @@ bride:
     - icon: "icon-phone"
       link: "tel://01063922140"
       clickEvent: "imee-phone"
+    - icon: "icon-phone"
+      link: "thttp://qr.kakao.com/talk/xVVxi8RcyG6O1i58xEMPPbzxwWY-"
+      clickEvent: "summer-kakao"      

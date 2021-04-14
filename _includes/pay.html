@@ -22,6 +22,7 @@
                         <div class="col-md-6 col-sm-6 text-center">
                             <div class="event-wrap animate-box">
                                 <h3>{{ person.title }}</h3>
+                                <center>
                                 {% for pay in person.pays %}
                                 <div class="event-col">
                                     <span>
@@ -31,6 +32,7 @@
                                     </span>
                                 </div>
                                 {% endfor %}
+                                </center>
                             </div>
                         </div>
                         {% endfor %}

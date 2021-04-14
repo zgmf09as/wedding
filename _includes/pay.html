@@ -23,7 +23,7 @@
                             <div class="event-wrap animate-box">
                                 <h3>{{ person.title }}</h3>
                                 {% for pay in person.pays %}
-                                <div class="event-col">
+                                <div class="col-md-6 col-sm-6">
                                     <span>
                                         <a href="{{ pay.link }}" onclick="onClickGAEvent('pay','{{ pay.clickEvent }}');">
                                             <img class="{{ pay.name }}-pay" src="{{ pay.iconImage }}" alt="{{ pay.alt }}">

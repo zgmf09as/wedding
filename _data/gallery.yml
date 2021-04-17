@@ -1,88 +1,181 @@
 galleries:
   - id: "wedding-gallery"
-    title: "웨딩 사진"
+    title: "웨딩 사진1"
     representImage: "images/wedding_photo/1.jpg"
     images:
       - image: "images/wedding_photo/1.jpg"
-        width: 4094
-        height: 6140
+        width: 1333
+        height: 2000
       - image: "images/wedding_photo/2.jpg"
-        width: 4124
-        height: 6186
+        width: 1333
+        height: 2000
       - image: "images/wedding_photo/3.jpg"
-        width: 4000
-        height: 6000
+        width: 1333
+        height: 2000
       - image: "images/wedding_photo/4.jpg"
-        width: 4135
-        height: 6202
+        width: 1333
+        height: 2000
       - image: "images/wedding_photo/5.jpg"
-        width: 6000
-        height: 4000
+        width: 2000
+        height: 1333
       - image: "images/wedding_photo/6.jpg"
-        width: 4000
-        height: 6000
+        width: 1333
+        height: 2000
       - image: "images/wedding_photo/7.jpg"
-        width: 3889
-        height: 5833
+        width: 1333
+        height: 2000
       - image: "images/wedding_photo/8.jpg"
-        width: 4000
-        height: 6000
+        width: 1333
+        height: 2000
   - id: "wedding-gallery2"
-    title: "웨딩 스냅"
-    representImage: "images/wedding_photo/1.jpg"
+    title: "웨딩 사진2"
+    representImage: "images/wedding_photo2/1.jpg"
     images:
-      - image: "images/wedding_photo/1.jpg"
-        width: 4094
-        height: 6140
-      - image: "images/wedding_photo/2.jpg"
-        width: 4124
-        height: 6186
-      - image: "images/wedding_photo/3.jpg"
-        width: 4000
-        height: 6000
-      - image: "images/wedding_photo/4.jpg"
-        width: 4135
-        height: 6202
-      - image: "images/wedding_photo/5.jpg"
-        width: 6000
-        height: 4000
-      - image: "images/wedding_photo/6.jpg"
-        width: 4000
-        height: 6000
-      - image: "images/wedding_photo/7.jpg"
-        width: 3889
-        height: 5833
-      - image: "images/wedding_photo/8.jpg"
-        width: 4000
-        height: 6000
+      - image: "images/wedding_photo2/1.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/2_0.jpg"
+        width: 1420
+        height: 2000
+      - image: "images/wedding_photo2/2_1.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/3.jpg"
+        width: 1405
+        height: 2000
+      - image: "images/wedding_photo2/4.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/5.jpg"
+        width: 1549
+        height: 2000
+      - image: "images/wedding_photo2/6.jpg"
+        width: 1440
+        height: 2000
+      - image: "images/wedding_photo2/7.jpg"
+        width: 1360
+        height: 2000
+      - image: "images/wedding_photo2/8.jpg"
+        width: 1416
+        height: 2000
+      - image: "images/wedding_photo2/9_0.jpg"
+        width: 1645
+        height: 2000
+      - image: "images/wedding_photo2/9_1.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/11.jpg"
+        width: 1382
+        height: 2000
+      - image: "images/wedding_photo2/12.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/13.jpg"
+        width: 1416
+        height: 2000
+      - image: "images/wedding_photo2/14.jpg"
+        width: 1478
+        height: 2000
+      - image: "images/wedding_photo2/15_1.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/15_2.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/15_3.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/16.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/17.jpg"
+        width: 2000
+        height: 1367
+      - image: "images/wedding_photo2/18.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/19.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/20.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/21.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/22.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/23_1.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/23_2.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/24.jpg"
+        width: 1314
+        height: 2000
+      - image: "images/wedding_photo2/25.jpg"
+        width: 1398
+        height: 2000
+      - image: "images/wedding_photo2/26.jpg"
+        width: 1329
+        height: 2000
+      - image: "images/wedding_photo2/27.jpg"
+        width: 1398
+        height: 2000
+      - image: "images/wedding_photo2/28.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/29.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/30.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/31_1.jpg"
+        width: 1540
+        height: 2000
+      - image: "images/wedding_photo2/31_2.jpg"
+        width: 1363
+        height: 2000
+      - image: "images/wedding_photo2/32.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo2/33.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo2/34.jpg"
+        width: 2000
+        height: 1333
   - id: "wedding-gallery3"
     title: "웨딩 일상복"
     representImage: "images/wedding_photo/1.jpg"
     images:
-      - image: "images/wedding_photo/1.jpg"
-        width: 4094
-        height: 6140
-      - image: "images/wedding_photo/2.jpg"
-        width: 4124
-        height: 6186
-      - image: "images/wedding_photo/3.jpg"
-        width: 4000
-        height: 6000
-      - image: "images/wedding_photo/4.jpg"
-        width: 4135
-        height: 6202
-      - image: "images/wedding_photo/5.jpg"
-        width: 6000
-        height: 4000
-      - image: "images/wedding_photo/6.jpg"
-        width: 4000
-        height: 6000
-      - image: "images/wedding_photo/7.jpg"
-        width: 3889
-        height: 5833
-      - image: "images/wedding_photo/8.jpg"
-        width: 4000
-        height: 6000          
+      - image: "images/wedding_photo3/1.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo3/2.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo3/3.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo3/4.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo3/5.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo3/6.jpg"
+        width: 2000
+        height: 1333
+      - image: "images/wedding_photo3/7.jpg"
+        width: 1333
+        height: 2000
+      - image: "images/wedding_photo3/8.jpg"
+        width: 1333
+        height: 2000
   - id: "jeju-gallery"
     title: "제주도"
     representImage: "images/jeju/3.jpeg"
@@ -100,112 +193,142 @@ galleries:
         width: 901
         height: 1233
       - image: "images/jeju/5.jpeg"
-        width: 3840
-        height: 2160
+        width: 2000
+        height: 1125
       - image: "images/jeju/6.jpeg"
-        width: 3840
-        height: 2160
+        width: 2000
+        height: 1125
       - image: "images/jeju/7.jpeg"
-        width: 3840
-        height: 2160
+        width: 2000
+        height: 1125
       - image: "images/jeju/8.jpeg"
-        width: 3840
-        height: 2160
+        width: 2000
+        height: 1125
       - image: "images/jeju/9.jpeg"
-        width: 2160
-        height: 3840
+        width: 1125
+        height: 2000
       - image: "images/jeju/10.jpeg"
-        width: 3088
-        height: 2316      
+        width: 2000
+        height: 1500
   - id: "tongyeong-gallery4"
     title: "통영"
     representImage: "images/tongyeong/5.jpeg"
     images:
       - image: "images/tongyeong/1.jpeg"
-        width: 3088
-        height: 2316
+        width: 2000
+        height: 1500
       - image: "images/tongyeong/2.jpeg"
-        width: 3024
-        height: 4032
+        width: 1500
+        height: 2000
+      - image: "images/tongyeong/2_1.jpeg"
+        width: 2000
+        height: 2000
       - image: "images/tongyeong/3.jpeg"
-        width: 1774
-        height: 3840
+        width: 923
+        height: 2000
       - image: "images/tongyeong/4.jpeg"
-        width: 1774
-        height: 3840
+        width: 923
+        height: 2000
       - image: "images/tongyeong/5.jpeg"
-        width: 1774
-        height: 3840
-      - image: "images/tongyeong/6.jpeg"
-        width: 1774
-        height: 3840
+        width: 923
+        height: 2000
       - image: "images/tongyeong/7.jpeg"
-        width: 2160
-        height: 2160
-      - image: "images/tongyeong/8.jpeg"
-        width: 2160
-        height: 2160        
+        width: 2000
+        height: 2000
   - id: "etc-gallery5"
     title: "그 밖에"
     representImage: "images/etc/29.jpeg"
     images:
+      - image: "images/etc/1.jpeg"
+        width: 923
+        height: 2000
+      - image: "images/etc/2.jpeg"
+        width: 2000
+        height: 923
       - image: "images/etc/3.jpeg"
-        width: 1774
-        height: 3840
+        width: 923
+        height: 2000
+      - image: "images/etc/4.jpeg"
+        width: 923
+        height: 2000
+      - image: "images/etc/5.jpeg"
+        width: 2000
+        height: 923
       - image: "images/etc/6.jpeg"
-        width: 2880
-        height: 2160
+        width: 2000
+        height: 1500
+      - image: "images/etc/7.jpeg"
+        width: 2000
+        height: 1500
       - image: "images/etc/8.jpeg"
-        width: 2160
-        height: 2160
+        width: 2000
+        height: 2000
       - image: "images/etc/9.jpeg"
-        width: 2160
-        height: 2160
+        width: 2000
+        height: 2000
+      - image: "images/etc/10.jpeg"
+        width: 2000
+        height: 2000
+      - image: "images/etc/11.jpeg"
+        width: 2000
+        height: 2000
+      - image: "images/etc/12.jpeg"
+        width: 2000
+        height: 2000
+      - image: "images/etc/13.jpeg"
+        width: 2000
+        height: 2000
       - image: "images/etc/14.jpeg"
-        width: 2160
-        height: 3840
+        width: 1125
+        height: 2000
+      - image: "images/etc/15.jpeg"
+        width: 2000
+        height: 1125
       - image: "images/etc/16.jpeg"
-        width: 3840
-        height: 1774
+        width: 2000
+        height: 923
       - image: "images/etc/17.jpeg"
-        width: 1774
-        height: 3840
+        width: 923
+        height: 2000
       - image: "images/etc/18.jpeg"
-        width: 1774
-        height: 3840        
+        width: 923
+        height: 2000
       - image: "images/etc/19.jpeg"
-        width: 1774
-        height: 3840                
+        width: 923
+        height: 2000
       - image: "images/etc/20.jpeg"
-        width: 1774
-        height: 3840                
+        width: 923
+        height: 2000
       - image: "images/etc/21.jpeg"
         width: 444
-        height: 961                        
+        height: 961
       - image: "images/etc/22.jpeg"
         width: 444
-        height: 961                                
+        height: 961
       - image: "images/etc/23.jpeg"
-        width: 3024
-        height: 4032                              
+        width: 2000
+        height: 1500
       - image: "images/etc/24.jpeg"
-        width: 3392
-        height: 1908                                      
+        width: 2000
+        height: 1125
+      - image: "images/etc/25.jpeg"
+        width: 2000
+        height: 1125
       - image: "images/etc/26.jpeg"
-        width: 1908
-        height: 3392              
+        width: 1125
+        height: 2000
       - image: "images/etc/27.jpeg"
-        width: 1908
-        height: 3392            
+        width: 1125
+        height: 2000
       - image: "images/etc/28.jpeg"
-        width: 3392
-        height: 1908             
+        width: 2000
+        height: 1125
       - image: "images/etc/29.jpeg"
-        width: 2160
-        height: 3840        
+        width: 1125
+        height: 2000
       - image: "images/etc/30.jpeg"
         width: 720
-        height: 960                
+        height: 960
       - image: "images/etc/31.jpeg"
-        width: 3840
-        height: 2160                        
+        width: 2000
+        height: 1125

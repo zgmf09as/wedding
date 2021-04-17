@@ -29,7 +29,7 @@ galleries:
         height: 2000
   - id: "wedding-gallery2"
     title: "웨딩 사진2"
-    representImage: "images/wedding_photo2/1.jpg"
+    representImage: "images/wedding_photo2/34.jpg"
     images:
       - image: "images/wedding_photo2/1.jpg"
         width: 1333
@@ -150,7 +150,7 @@ galleries:
         height: 1333
   - id: "wedding-gallery3"
     title: "웨딩 일상복"
-    representImage: "images/wedding_photo/1.jpg"
+    representImage: "images/wedding_photo3/2.jpg"
     images:
       - image: "images/wedding_photo3/1.jpg"
         width: 2000

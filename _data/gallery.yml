@@ -180,22 +180,22 @@ galleries:
     title: "제주도"
     representImage: "images/jeju/3.jpeg"
     images:
-      - image: "images/jeju/1.jpeg"
-        width: 666
-        height: 1440
+      - image: "images/jeju/10.jpeg"
+        width: 2000
+        height: 1500
+      - image: "images/jeju/4.jpeg"
+        width: 901
+        height: 1233
       - image: "images/jeju/2.jpeg"
         width: 961
         height: 1280
       - image: "images/jeju/3.jpeg"
         width: 1280
         height: 720
-      - image: "images/jeju/4.jpeg"
-        width: 901
-        height: 1233
+      - image: "images/jeju/1.jpeg"
+        width: 666
+        height: 1440
       - image: "images/jeju/5.jpeg"
-        width: 2000
-        height: 1125
-      - image: "images/jeju/6.jpeg"
         width: 2000
         height: 1125
       - image: "images/jeju/7.jpeg"
@@ -207,9 +207,6 @@ galleries:
       - image: "images/jeju/9.jpeg"
         width: 1125
         height: 2000
-      - image: "images/jeju/10.jpeg"
-        width: 2000
-        height: 1500
   - id: "tongyeong-gallery4"
     title: "통영"
     representImage: "images/tongyeong/5.jpeg"

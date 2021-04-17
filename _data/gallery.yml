@@ -234,46 +234,16 @@ galleries:
         height: 2000
   - id: "etc-gallery5"
     title: "그 밖에"
-    representImage: "images/etc/29.jpeg"
+    representImage: "images/etc/31.jpeg"
     images:
-      - image: "images/etc/1.jpeg"
-        width: 923
-        height: 2000
-      - image: "images/etc/2.jpeg"
-        width: 2000
-        height: 923
-      - image: "images/etc/3.jpeg"
-        width: 923
-        height: 2000
-      - image: "images/etc/4.jpeg"
-        width: 923
-        height: 2000
-      - image: "images/etc/5.jpeg"
-        width: 2000
-        height: 923
-      - image: "images/etc/6.jpeg"
-        width: 2000
-        height: 1500
-      - image: "images/etc/7.jpeg"
-        width: 2000
-        height: 1500
-      - image: "images/etc/8.jpeg"
-        width: 2000
-        height: 2000
-      - image: "images/etc/9.jpeg"
-        width: 2000
-        height: 2000
-      - image: "images/etc/10.jpeg"
-        width: 2000
-        height: 2000
       - image: "images/etc/11.jpeg"
         width: 2000
         height: 2000
       - image: "images/etc/12.jpeg"
         width: 2000
         height: 2000
-      - image: "images/etc/13.jpeg"
-        width: 2000
+      - image: "images/etc/4.jpeg"
+        width: 923
         height: 2000
       - image: "images/etc/14.jpeg"
         width: 1125
@@ -281,9 +251,6 @@ galleries:
       - image: "images/etc/15.jpeg"
         width: 2000
         height: 1125
-      - image: "images/etc/16.jpeg"
-        width: 2000
-        height: 923
       - image: "images/etc/17.jpeg"
         width: 923
         height: 2000
@@ -303,8 +270,8 @@ galleries:
         width: 444
         height: 961
       - image: "images/etc/23.jpeg"
-        width: 2000
-        height: 1500
+        width: 1500
+        height: 2000
       - image: "images/etc/24.jpeg"
         width: 2000
         height: 1125
@@ -314,15 +281,9 @@ galleries:
       - image: "images/etc/26.jpeg"
         width: 1125
         height: 2000
-      - image: "images/etc/27.jpeg"
-        width: 1125
-        height: 2000
       - image: "images/etc/28.jpeg"
         width: 2000
         height: 1125
-      - image: "images/etc/29.jpeg"
-        width: 1125
-        height: 2000
       - image: "images/etc/30.jpeg"
         width: 720
         height: 960

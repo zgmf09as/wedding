@@ -29,7 +29,7 @@ galleries:
         height: 2000
   - id: "wedding-gallery2"
     title: "웨딩 사진2"
-    representImage: "images/wedding_photo2/34.jpg"
+    representImage: "images/wedding_photo2/23_2.jpg"
     images:
       - image: "images/wedding_photo2/1.jpg"
         width: 1333
@@ -150,7 +150,7 @@ galleries:
         height: 1333
   - id: "wedding-gallery3"
     title: "웨딩 일상복"
-    representImage: "images/wedding_photo3/2.jpg"
+    representImage: "images/wedding_photo3/1.jpg"
     images:
       - image: "images/wedding_photo3/1.jpg"
         width: 2000
@@ -192,15 +192,15 @@ galleries:
       - image: "images/jeju/3.jpeg"
         width: 1280
         height: 720
-      - image: "images/jeju/1.jpeg"
-        width: 666
-        height: 1440
       - image: "images/jeju/5.jpeg"
         width: 2000
         height: 1125
       - image: "images/jeju/7.jpeg"
         width: 2000
         height: 1125
+      - image: "images/jeju/1.jpeg"
+        width: 666
+        height: 1440
       - image: "images/jeju/8.jpeg"
         width: 2000
         height: 1125
@@ -234,7 +234,7 @@ galleries:
         height: 2000
   - id: "etc-gallery5"
     title: "그 밖에"
-    representImage: "images/etc/31.jpeg"
+    representImage: "images/etc/21.jpeg"
     images:
       - image: "images/etc/11.jpeg"
         width: 2000

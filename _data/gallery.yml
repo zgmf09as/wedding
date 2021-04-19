@@ -37,12 +37,6 @@ galleries:
       - image: "images/wedding_photo2/2_0.jpg"
         width: 1420
         height: 2000
-      - image: "images/wedding_photo2/2_1.jpg"
-        width: 1333
-        height: 2000
-      - image: "images/wedding_photo2/3.jpg"
-        width: 1405
-        height: 2000
       - image: "images/wedding_photo2/4.jpg"
         width: 1333
         height: 2000
@@ -51,12 +45,6 @@ galleries:
         height: 2000
       - image: "images/wedding_photo2/6.jpg"
         width: 1440
-        height: 2000
-      - image: "images/wedding_photo2/7.jpg"
-        width: 1360
-        height: 2000
-      - image: "images/wedding_photo2/8.jpg"
-        width: 1416
         height: 2000
       - image: "images/wedding_photo2/9_0.jpg"
         width: 1645
@@ -88,18 +76,12 @@ galleries:
       - image: "images/wedding_photo2/16.jpg"
         width: 2000
         height: 1333
-      - image: "images/wedding_photo2/17.jpg"
-        width: 2000
-        height: 1367
       - image: "images/wedding_photo2/18.jpg"
         width: 1333
         height: 2000
       - image: "images/wedding_photo2/19.jpg"
         width: 1333
         height: 2000
-      - image: "images/wedding_photo2/20.jpg"
-        width: 2000
-        height: 1333
       - image: "images/wedding_photo2/21.jpg"
         width: 2000
         height: 1333
@@ -111,9 +93,6 @@ galleries:
         height: 1333
       - image: "images/wedding_photo2/23_2.jpg"
         width: 1333
-        height: 2000
-      - image: "images/wedding_photo2/24.jpg"
-        width: 1314
         height: 2000
       - image: "images/wedding_photo2/25.jpg"
         width: 1398

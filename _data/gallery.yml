@@ -31,9 +31,6 @@ galleries:
     title: "웨딩 사진2"
     representImage: "images/wedding_photo2/23_2.jpg"
     images:
-      - image: "images/wedding_photo2/1.jpg"
-        width: 1333
-        height: 2000
       - image: "images/wedding_photo2/2_0.jpg"
         width: 1420
         height: 2000
@@ -76,9 +73,6 @@ galleries:
       - image: "images/wedding_photo2/16.jpg"
         width: 2000
         height: 1333
-      - image: "images/wedding_photo2/18.jpg"
-        width: 1333
-        height: 2000
       - image: "images/wedding_photo2/19.jpg"
         width: 1333
         height: 2000

@@ -24,13 +24,18 @@
                                 <h3>{{ person.title }}</h3>
                                 {% for pay in person.pays %}
                                 <div class="col-md-6 col-sm-6">
+                                    <br>
                                     <span>
                                         <a href="{{ pay.link }}" onclick="onClickGAEvent('pay','{{ pay.clickEvent }}');">
                                             <img class="{{ pay.name }}-pay" src="{{ pay.iconImage }}" alt="{{ pay.alt }}">
                                         </a>
                                     </span>
+                                    <br>
                                 </div>
                                 {% endfor %}
+                                <div class="col-md-6 col-sm-6">                                
+                                <h5 style="color: white;"> {{ person.extra }} </h5>
+                                </div>
                             </div>
                         </div>
                         {% endfor %}

@@ -6,17 +6,6 @@ descriptions:
   - line: "보내주신 마음 따뜻하게 잘 받겠습니다:)"
 people:
   - title: "🤵 신랑에게 축의하기"
-    extra: "혼주 전용실<br><br>하나은행<br><br>117-18-20768-3"
-    pays:
-      - name: "kakao"
-        link: "https://qr.kakaopay.com/281006011144454990008729"
-        iconImage: "images/kakao_pay.png"
-        clickEvent: "yako-kakao"
-        alt: "은철 카카오페이"
+    extra: "<br>국민은행<br><br>484202-01-295092"
   - title: "👰 신부에게 축의하기"
-    pays:
-      - name: "kakao"
-        link: "https://qr.kakaopay.com/281006011000003884768174"
-        iconImage: "images/kakao_pay.png"
-        clickEvent: "imee-kakao"
-        alt: "여름 카카오페이"
+    extra: "우리은행<br><br>1002-159-467591"

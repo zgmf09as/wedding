@@ -1,32 +1,32 @@
-when: "5월 29일 토요일 오후 6시 30분"
-where: "아펠가모 반포"
+when: "11월 13일 토요일 오후 5시 00분"
+where: "이스턴 베니비스"
 groom:
-  name: "은철"
-  eng: "Eunchul Jeon"
+  name: "종진"
+  eng: "JongJin Lee"
   thumbnail: "images/eric.jpg"
   originalImage: "images/eric_big.png"
   imageWidth: 3897
   imageHeight: 3876
-  parents: "전용실 ∙ 곽경헌"
+  parents: "이한규 ∙ 설복덕"
   snses:
     - icon: "icon-phone"
-      link: "tel://01099962965"
+      link: "tel://01050668829"
       clickEvent: "yako-phone"
     - icon: "icon-message"
-      link: "http://qr.kakao.com/talk/.RGXSvrwkHAcPZ.aIX.gY0VO8rU-"
+      link: "http://qr.kakao.com/talk/mmqLYE.0ElcvUQXY.sCbTihWwJ4-"
       clickEvent: "eric-kakao"
 bride:
-  name: "여름"
-  eng: "Yeoreum Hwangbo"
+  name: "이예슬"
+  eng: "YeSeul Lee"
   thumbnail: "images/summer.jpg"
   originalImage: "images/summer_big.png"
   imageWidth: 3862
   imageHeight: 3865
-  parents: "황보종 ∙ 고희자"
+  parents: "이만병 ∙ 김양심"
   snses:
     - icon: "icon-phone"
-      link: "tel://01063922140"
+      link: "tel://01028907950"
       clickEvent: "imee-phone"
     - icon: "icon-message"
-      link: "http://qr.kakao.com/talk/xVVxi8RcyG6O1i58xEMPPbzxwWY-"
+      link: "http://qr.kakao.com/talk/UhIaThRvoMBboscgJ9526RsHlA0-"
       clickEvent: "summer-kakao"      
